@@ -724,7 +724,7 @@ https://github.com/charishma265/Smart-Ai-Vision-Based-Parking-System
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
-Contributions, suggestions, and improvements are welcome.
+Contributions, suggestions, and welcome.
 
 ---
 
