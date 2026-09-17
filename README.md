@@ -46,7 +46,7 @@ The detected information is then converted into parking statistics and analytics
 
 ---
 
-# 💡 Solution
+# 💡 Solutions
 
 SmartParkAI follows a computer-vision pipeline:
 
