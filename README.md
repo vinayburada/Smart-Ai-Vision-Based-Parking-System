@@ -8,7 +8,7 @@ The application provides an interactive web dashboard where users can upload par
 
 ---
 
-## 🌟 Project Highlights
+## 🌟 Project Highlights Ai
 
 * 🎥 **CCTV / Parking Video Processing**
 * 🧠 **CNN-based parking-space classification**
@@ -451,7 +451,7 @@ source venv/bin/activate
 
 ---
 
-## 3. Install Dependencies
+## 3. Install Dependencies 
 
 Install the required Python packages:
 
