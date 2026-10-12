@@ -238,6 +238,7 @@ It displays metrics including:
 * Uploaded video
 * Parking event information
 
+
 The dashboard also provides a CCTV/video preview and a video-processing interface.
 
 ---
@@ -271,9 +272,7 @@ The analytics page provides an event table containing information such as:
 * Billing
 
 The table is populated from the parking-processing logs.
-
 ---
-
 # 🧠 Model Performance
 
 The application contains a dedicated **Model Performance** section.
@@ -364,7 +363,6 @@ Responsibilities include:
 * Revenue calculation
 * Dashboard statistics
 * ROI image generation
-
 #### `app-checkpoint.py`
 
 A checkpoint/previous version of the Flask application.
@@ -420,7 +418,6 @@ Documents the project concept and technology stack.
 ```bash
 git clone https://github.com/charishma265/Smart-Ai-Vision-Based-Parking-System.git
 ```
-
 ```bash
 cd Smart-Ai-Vision-Based-Parking-System
 ```
@@ -471,7 +468,6 @@ numpy
 tensorflow
 Werkzeug
 ```
-
 Then run:
 
 ```bash
