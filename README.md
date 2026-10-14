@@ -149,7 +149,6 @@ CNN Model
 ```
 
 The implementation normalizes pixel values to the `0–1` range before prediction.
-
 ---
 
 ## 5. CNN Prediction
