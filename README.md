@@ -196,7 +196,6 @@ When a parked slot becomes empty:
 ```text
 Car EXITED
 ```
-
 The system calculates how long the vehicle remained parked.
 
 The application also handles vehicles that remain parked until the end of the uploaded video.
